@@ -1,7 +1,7 @@
-baseURL = "https://david-hollingworth.github.io/novel-it-site/"
+baseURL = "https://david-hollingworth.github.io/nailed-it-blog/"
 languageCode = "en-gb"
-title = "Novel-It"
-theme = "novel-it"
+title = "Nailed-It: The Blog"
+theme = "nailed-it-blog"
 
 disablePathToLower = true
 
@@ -12,7 +12,7 @@ disablePathToLower = true
   tag = "tags"
 
 [params]
-  description = "A self-hosted, open-source novel writing application"
+  description = "Nailed-It news, views and releases"
   dateFormat = "2 January 2006"
 
 [markup.goldmark.renderer]

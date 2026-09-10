@@ -1,3 +1,0 @@
----
-title: "Novel-It Blog"
----
