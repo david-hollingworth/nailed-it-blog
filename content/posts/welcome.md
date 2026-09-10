@@ -24,5 +24,5 @@ These are more like a to-do list on steroids, with loads of additional features.
 The purpose of Nailed-It is to provide a differnt experience to both a To-Do list and a project management tool. It will provide a guided and supportive process to define your goals, be they personal or work related, to identify what needs to happen to reach your target and to guide you along the path. It will work equally well for short-term goals, like refurbishing your kitchen, or long-term goals that might take many decades to achieve. Whatever your heart desires, set it down as a goal and, before you know it, you'll have Nailed-It.
 
 <p align="center">
-  <img src="/images/nailed-it.png" alt="A image of a nail driven perfectly aligned into a piece of dark wood." width="300" class="rounded-img" />
+  {{< figure src="images/nailed-it.png" alt="A nail driven perfectly aligned into a piece of dark wood." >}}
 </p>

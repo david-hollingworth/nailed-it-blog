@@ -4,3 +4,6 @@ public/
 
 # Local development config
 hugo.local.toml
+
+# System files
+nohup.out
