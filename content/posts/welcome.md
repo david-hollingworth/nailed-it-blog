@@ -1,11 +1,11 @@
 ---
-title: Welcome to Nailed-It
+title: Nailed-It - Goals Achieved
 description: An open-source application to help you achieve your goals
 date: 2026-09-10
+slug: "welcome"
 draft: false
+pinned: true
 ---
-
-## Nailed-It: Goals Achieved
 
 Nailed-It is an application designed to help you achieve your goals. There are lots of very good to-do list applications and lots of project management applications, but not so many applications designed specifically to help you reach your goals.
 
